@@ -1,0 +1,9 @@
+init: slots=21, items=0, ready=True
+missing ingredients blocked=True, reason=Gather more materials
+craft UI opens=True, cursor=None
+Tools button=True, craft disabled=True
+real inventory counts=3/3, craft enabled=True
+craft result stone/stick/axe=0/0/1
+repeat click axe=1
+exclusive inventory=True, count=1
+closed cursor=Locked, visible=False

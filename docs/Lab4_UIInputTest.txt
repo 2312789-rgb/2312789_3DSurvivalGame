@@ -1,0 +1,11 @@
+C keyboard opened Crafting: observed
+Tools mouse click opened Tools: observed
+I keyboard opened Inventory and closed Crafting: True
+Actual mouse Craft: stone=0, Stick=0, Axe=1
+Camera unchanged while using UI=True
+Actual Back mouse click=True
+Actual drag parent=Slot1, axe count=1, drag ended=True, localPos=(0.00, 0.00, 0.00)
+Actual I close: UI closed=True, cursor=Locked
+Actual W displacement=0.006160736, position=(66.00, 1.93, 38.01)
+EventSystem begin/drop/end handlers: moved=True, count=1, drag cleared=True
+Close/reopen count=1

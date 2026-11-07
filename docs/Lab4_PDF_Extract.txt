@@ -1,0 +1,45 @@
+THỰC HÀNH PHÁT TRIỂN ỨNG DỤNG GAME NÂNG CAO 
+1 Thái Duy Quý (quytd@dlu.edu.vn) – ITFacDLU 
+ 
+Lab 4 (4 tiết): Lấy đồ vật trong Game UI 
+ 
+MỤC ĐÍCH 
+- Giúp sinh viên thực h ành với UI n âng cao th ông qua việc đưa đồ vật v ào kho ch ứa 
+hàng và tăng giảm giá trị và số lượng trong kho chứa.  
+- Xây dựng và tạo các script để điều khiển kho chứa bằng UI.   
+YÊU CẦU 
+- Sinh viên xem video đi kèm và thực hiện theo hướng dẫn.  
+- Sau đó thực hiện các bài tập tương ứng.  
+GIỚI THIỆU 
+Toàn b ộ bài lab này, sinh viên ch ỉ thực hi ện xây d ựng m ột game duy nh ất là 3D 
+Survival Game, game được kênh Mike’s code phát hành t ừ năm 2022. Đây là b ộ video 
+được hướng dẫn khá k ỹ và chi ti ết và công phu . Trong video, tác gi ả đi từ cơ bản đến 
+nâng cao và giải thích chi tiết các đoạn code.  
+Mỗi buổi thực hành, sinh viên ch ỉ cần làm theo m ột số video do giảng viên chỉ định. 
+Sinh viên cần làm theo hướng dẫn, hiểu rõ các n ội dung trong từng video. Các phần thi 
+cuối kỳ hoặc vấn đáp sẽ hỏi trong nội dung từng video.  
+Sinh viên tiếp tục với dự án của Lab 3, để thực hành đư ợc Lab 4 này, sinh viên b ắt 
+buộc phải xong Lab 3. Sau khi làm xong Lab 4 này, sinh viên build th ành tập tin exe, 
+đồng thời nén l ại mã ngu ồn với tên lab : Lab 4.rar. Khi có yêu c ầu, sinh viên n ộp lại 2 
+tập tin nén là thư mục nén chứa exe và thư mục nén của Lab 4.      
+THỰC HÀNH PHÁT TRIỂN ỨNG DỤNG GAME NÂNG CAO 
+2 Thái Duy Quý (quytd@dlu.edu.vn) – ITFacDLU 
+ 
+THỰC HÀNH 
+1.  Phần này sẽ hướng dẫn sinh viên thực hành UI nâng cao với việc xây dựng giao diện 
+cho phép lấy đồ vật và đưa vào Inventory (kho chứa). 
+Chi tiết, sinh viên xem và thực hành theo video sau:  
+https://www.youtube.com/watch?v=fxyt35_Bh-
+M&list=PLtLToKUhgzwnk4U2eQYridNnObc2gqWo-&index=7     
+Kiến thức cần nắm:  UI nâng cao. 
+2. Phần tiếp theo, sinh viên tiếp tục với phần điều khiển việc lấy đồ vật thông qua việc 
+viết mã nguồn để đưa vào Inventory. Chi tiết, sinh viên xem và thực hành theo video 
+sau: 
+https://www.youtube.com/watch?v=JJXNVS_-
+tGI&list=PLtLToKUhgzwnk4U2eQYridNnObc2gqWo-&index=8     
+Kiến thức cần nắm:  UI nâng cao, Scripting for UI. 
+YÊU CẦU  
+Sinh viên hoàn thành 2 video nêu trên, xu ất bản thành m ột thư m ục chứa tập tin exe, 
+nén lại với tên MSSV_Lab4_exe.rar đồng thời nén toàn bộ mã nguồn thành Lab 4.rar và 
+nộp khi có yêu cầu.  
+-- Hết -- 

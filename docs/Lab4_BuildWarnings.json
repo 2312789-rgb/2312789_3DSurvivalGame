@@ -1,0 +1,182 @@
+[
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/Pad': integer modulus may be much slower, try using uints if possible. at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/Pad.shader(55) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/ConvTranspose': integer modulus may be much slower, try using uints if possible. at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/ConvTranspose.shader(215) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/ConvTranspose': integer modulus may be much slower, try using uints if possible. at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/ConvTranspose.shader(218) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/ConvTranspose': integer modulus may be much slower, try using uints if possible. at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/ConvTranspose.shader(256) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/ConvTranspose': integer modulus may be much slower, try using uints if possible. at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/ConvTranspose.shader(259) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/ConvTranspose': integer modulus may be much slower, try using uints if possible. at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/ConvTranspose.shader(296) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/ConvTranspose': integer modulus may be much slower, try using uints if possible. at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/ConvTranspose.shader(299) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/ScatterND': 'j': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/ScatterND.shader(72) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/ScatterND': signed/unsigned mismatch, unsigned assumed at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/ScatterND.shader(75) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/ScatterND': signed/unsigned mismatch, unsigned assumed at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/ScatterND.shader(77) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/ScatterND': signed/unsigned mismatch, unsigned assumed at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/ScatterND.shader(79) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/ScatterND': signed/unsigned mismatch, unsigned assumed at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/ScatterND.shader(81) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/ScatterND': signed/unsigned mismatch, unsigned assumed at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/ScatterND.shader(86) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/ScatterND': signed/unsigned mismatch, unsigned assumed at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/ScatterND.shader(88) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/ScatterND': signed/unsigned mismatch, unsigned assumed at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/ScatterND.shader(90) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/ScatterND': signed/unsigned mismatch, unsigned assumed at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/ScatterND.shader(92) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/GridSample': signed/unsigned mismatch, unsigned assumed at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/GridSample.shader(44) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/GridSample': signed/unsigned mismatch, unsigned assumed at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/GridSample.shader(47) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/GridSample': signed/unsigned mismatch, unsigned assumed at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/GridSample.shader(50) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/ScatterElements': signed/unsigned mismatch, unsigned assumed at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/ScatterElements.shader(147) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/ScatterElements': signed/unsigned mismatch, unsigned assumed at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/ScatterElements.shader(202) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/SliceSet': integer divides may be much slower, try using uints if possible. at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/SliceSet.shader(55) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/SliceSet': signed/unsigned mismatch, unsigned assumed at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/SliceSet.shader(57) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/SliceSet': integer divides may be much slower, try using uints if possible. at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/SliceSet.shader(69) (on d3d11)"
+  },
+  {
+    "count": 1,
+    "message": "Shader warning in 'Hidden/Sentis/SliceSet': signed/unsigned mismatch, unsigned assumed at Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/PixelShaders/SliceSet.shader(71) (on d3d11)"
+  },
+  {
+    "count": 40,
+    "message": "Shader warning in 'ConvGeneric': \"TRANSPOSE_OUTPUT variants not supported with NON_UNIFORM_CONVGROUP_PER_OC, make sure this variant is not used\" at kernel Conv1D_OutTransposed_4eoc_4esp at ConvGeneric.compute(550)"
+  },
+  {
+    "count": 39,
+    "message": "Shader warning in 'ConvGeneric': \"TRANSPOSE_OUTPUT variants not supported with NON_UNIFORM_CONVGROUP_PER_OC, make sure this variant is not used\" at kernel Conv1D_OutTransposed_4eoc_4esp at ConvGeneric.compute(549)"
+  },
+  {
+    "count": 37,
+    "message": "Shader warning in 'ConvGeneric': \"TRANSPOSE_OUTPUT variants not supported with NON_UNIFORM_CONVGROUP_PER_OC, make sure this variant is not used\" at kernel Conv1D_OutTransposed_4eoc_4esp at ConvGeneric.compute(548)"
+  },
+  {
+    "count": 36,
+    "message": "Shader warning in 'ConvGeneric': \"TRANSPOSE_OUTPUT variants not supported with NON_UNIFORM_CONVGROUP_PER_OC, make sure this variant is not used\" at kernel Conv1DComplex_OutTransposed_4eoc_4esp at ConvGeneric.compute(550)"
+  },
+  {
+    "count": 35,
+    "message": "Shader warning in 'ConvGeneric': \"TRANSPOSE_OUTPUT variants not supported with NON_UNIFORM_CONVGROUP_PER_OC, make sure this variant is not used\" at kernel Conv1DComplex_OutTransposed_4eoc_4esp at ConvGeneric.compute(549)"
+  },
+  {
+    "count": 33,
+    "message": "Shader warning in 'ConvGeneric': \"TRANSPOSE_OUTPUT variants not supported with NON_UNIFORM_CONVGROUP_PER_OC, make sure this variant is not used\" at kernel Conv1DComplex_OutTransposed_4eoc_4esp at ConvGeneric.compute(548)"
+  },
+  {
+    "count": 32,
+    "message": "Shader warning in 'ConvGeneric': \"TRANSPOSE_OUTPUT variants not supported with NON_UNIFORM_CONVGROUP_PER_OC, make sure this variant is not used\" at kernel Conv1D_Scaled_OutTransposed_4eoc_4esp at ConvGeneric.compute(550)"
+  },
+  {
+    "count": 31,
+    "message": "Shader warning in 'ConvGeneric': \"TRANSPOSE_OUTPUT variants not supported with NON_UNIFORM_CONVGROUP_PER_OC, make sure this variant is not used\" at kernel Conv1D_Scaled_OutTransposed_4eoc_4esp at ConvGeneric.compute(549)"
+  },
+  {
+    "count": 29,
+    "message": "Shader warning in 'ConvGeneric': \"TRANSPOSE_OUTPUT variants not supported with NON_UNIFORM_CONVGROUP_PER_OC, make sure this variant is not used\" at kernel Conv1D_Scaled_OutTransposed_4eoc_4esp at ConvGeneric.compute(548)"
+  },
+  {
+    "count": 28,
+    "message": "Shader warning in 'ConvGeneric': \"TRANSPOSE_OUTPUT variants not supported with NON_UNIFORM_CONVGROUP_PER_OC, make sure this variant is not used\" at kernel Conv1D_Scaled_Complex_OutTransposed_4eoc_4esp at ConvGeneric.compute(550)"
+  },
+  {
+    "count": 27,
+    "message": "Shader warning in 'ConvGeneric': \"TRANSPOSE_OUTPUT variants not supported with NON_UNIFORM_CONVGROUP_PER_OC, make sure this variant is not used\" at kernel Conv1D_Scaled_Complex_OutTransposed_4eoc_4esp at ConvGeneric.compute(549)"
+  },
+  {
+    "count": 25,
+    "message": "Shader warning in 'ConvGeneric': \"TRANSPOSE_OUTPUT variants not supported with NON_UNIFORM_CONVGROUP_PER_OC, make sure this variant is not used\" at kernel Conv1D_Scaled_Complex_OutTransposed_4eoc_4esp at ConvGeneric.compute(548)"
+  },
+  {
+    "count": 24,
+    "message": "Shader warning in 'ConvGeneric': \"TRANSPOSE_OUTPUT variants not supported with NON_UNIFORM_CONVGROUP_PER_OC, make sure this variant is not used\" at kernel Conv1D_OutTransposedDouble_4eoc_4esp at ConvGeneric.compute(550)"
+  },
+  {
+    "count": 23,
+    "message": "Shader warning in 'ConvGeneric': \"TRANSPOSE_OUTPUT variants not supported with NON_UNIFORM_CONVGROUP_PER_OC, make sure this variant is not used\" at kernel Conv1D_OutTransposedDouble_4eoc_4esp at ConvGeneric.compute(549)"
+  },
+  {
+    "count": 21,
+    "message": "Shader warning in 'ConvGeneric': \"TRANSPOSE_OUTPUT variants not supported with NON_UNIFORM_CONVGROUP_PER_OC, make sure this variant is not used\" at kernel Conv1D_OutTransposedDouble_4eoc_4esp at ConvGeneric.compute(548)"
+  },
+  {
+    "count": 1,
+    "message": "The tree Birch_tree1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly."
+  },
+  {
+    "count": 1,
+    "message": "The tree Flower1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly."
+  },
+  {
+    "count": 1,
+    "message": "The tree Bush1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly."
+  },
+  {
+    "count": 1,
+    "message": "The tree House1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly."
+  },
+  {
+    "count": 1,
+    "message": "The tree House3 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly."
+  }
+]

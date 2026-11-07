@@ -1,0 +1,5 @@
+restart clean=True
+full inventory=True, extra add rejected=True
+no room rejected=True, unchanged=True, reason=Inventory has no room for the result
+missing result rejected=True, unchanged=True
+full inventory craft frees slots=True, items=16, axe=1
