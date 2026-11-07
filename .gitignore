@@ -139,5 +139,9 @@ crashlytics-build.properties
 /Backups/
 /Builds/
 /Deliverables/
+# Licensed local TurboSquid models, materials, and derived pickup prefab
+/Assets/ThirdParty/TurboSquidWoodenSticks/
+/Assets/ThirdParty/TurboSquidWoodenSticks.meta
 /tmp/
 /UIElementsSchema/
+/docs/
